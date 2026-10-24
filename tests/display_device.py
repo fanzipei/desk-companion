@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Read actual LCD framebuffers over BLE and validate display preferences safely."""
 import asyncio
 import json

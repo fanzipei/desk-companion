@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Non-destructive acceptance for the configurable device note limit."""
 import asyncio
 import json

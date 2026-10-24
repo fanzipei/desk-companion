@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Bounded, isolated Win32 selection capture without OLE clipboard objects."""
 import ctypes
 from ctypes import wintypes as w

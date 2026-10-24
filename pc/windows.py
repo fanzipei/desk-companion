@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Small Windows adapters: global hotkeys, safe selection capture and voice typing."""
 import ctypes
 from ctypes import wintypes as w

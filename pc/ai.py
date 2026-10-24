@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Shared text/vision calls and explicit capability verification."""
 import base64
 import hashlib

@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Explicit first-install hardware acceptance. Refuses to overwrite existing notes."""
 import asyncio
 import json

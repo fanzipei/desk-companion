@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Explicit hardware-test target; no developer's device address is committed."""
 import json
 import os

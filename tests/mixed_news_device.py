@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Non-destructive mixed-source BLE acceptance; restores the previous news cache."""
 import asyncio
 import json

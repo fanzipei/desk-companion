@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 param([switch]$Flash, [string]$Port = 'COM6', [string]$EspRoot = (Join-Path $env:USERPROFILE 'esp'))
 $ErrorActionPreference = 'Stop'
 $projectRoot = Split-Path $PSScriptRoot -Parent

@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """API credentials protected by Windows DPAPI for the current user."""
 import ctypes
 from ctypes import wintypes

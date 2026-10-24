@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Pure placement logic shared by the tray flyout and its tests."""
 
 

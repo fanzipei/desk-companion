@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Approximate four-hour clock sync, retried on connection and after failures."""
 import time
 

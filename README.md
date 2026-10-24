@@ -52,6 +52,6 @@ LICENSES/             第三方授权及字体例外文本
 
 ## License
 
-项目原创代码采用 **GPL-3.0-only**，全文见 [LICENSE](LICENSE)。第三方驱动、U8g2 与字体继续适用各自原始许可，见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+项目原创代码采用 **Apache-2.0**，全文见 [LICENSE](LICENSE)，版权声明见 [NOTICE](NOTICE)。第三方驱动、U8g2 与字体继续适用各自原始许可，见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
-GPLv3 允许商业使用；分发衍生版本须按许可向接收者提供相应源码，私人使用和内部修改不要求公开。选择理由与 MIT / Apache-2.0 的比较见[许可说明](docs/licensing.md)。本仓库不对微雪硬件设计、商标或第三方新闻内容授予权利。
+Apache-2.0 允许商用和闭源衍生，并包含明确的贡献相关专利许可；分发时须保留许可及适用声明，并标注修改。选择理由与 MIT / GPL-3.0 的比较见[许可说明](docs/licensing.md)。本仓库不对微雪硬件设计、商标或第三方新闻内容授予权利。

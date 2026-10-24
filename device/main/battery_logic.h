@@ -1,3 +1,6 @@
+/* Copyright 2026 fanzipei
+ * SPDX-License-Identifier: Apache-2.0
+ */
 #ifndef COMPANION_BATTERY_LOGIC_H
 #define COMPANION_BATTERY_LOGIC_H
 /* A voltage-based estimate for a single-cell 4.2 V Li-ion battery, not a fuel gauge. */

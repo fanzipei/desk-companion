@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Proxy policy shared by news feeds, article extraction and related searches."""
 from urllib.parse import urlsplit
 from urllib.request import ProxyHandler

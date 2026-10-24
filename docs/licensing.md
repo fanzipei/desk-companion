@@ -1,6 +1,6 @@
 # 许可证选择
 
-本项目原创代码选择 **GPL-3.0-only**（GNU GPL 第 3 版，不自动包含未来版本）。根目录 LICENSE 为完整许可文本；第三方组件不因此改换许可。
+本项目原创代码选择 **Apache-2.0**。根目录 LICENSE 为 Apache 基金会发布的完整许可文本，NOTICE 保存本项目版权及第三方归属提示；第三方组件不因此改换许可。
 
 | 许可 | 优势 | 需要接受的取舍 |
 | --- | --- | --- |
@@ -10,8 +10,8 @@
 
 三种许可都允许商业使用和销售，也都不提供软件质量担保。GPL 并不表示“不能商用”，也不要求将私人或内部修改发布到公共 GitHub；义务主要在向其他人分发时触发。GPL 并不禁止接收者再次分发源码。仅作为网络服务运行的修改，不会仅因这一点触发 GPL 的源码提供义务；AGPL 对网络使用另有规定。
 
-本项目后续如果变成销售的桌面硬件，GPLv3 第 6 条对 User Product 的规定可能要求向接收者提供安装修改版固件所需的方法、步骤、授权密钥等安装信息。当前构建与 esptool 刷写方法已公开，固件不启用 Secure Boot/Flash Encryption；以后增加签名、锁定或自有升级机制时，需要相应核对许可义务。
+选择 Apache-2.0 是为了允许项目原创代码被商用和闭源集成，同时明确贡献相关的专利许可。分发原作或衍生作品时须提供许可证、保留适用版权及 NOTICE 声明，并显著标注修改；此许可不授予项目或第三方的商标使用权。原创代码无需仅因 Apache-2.0 而公开衍生源码，但所用的 GPL/LGPL 字体与依赖仍适用各自条款。
 
 原文资料：[MIT](https://choosealicense.com/licenses/mit/)、[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)、[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)。
 
-第三方字体保留原始 GPLv2 与字体嵌入例外，不将其标为项目原创 GPLv3 代码；详见 [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md)。软件根目录的许可不对微雪硬件设计、商标、新闻文章或用户截图内容授予额外权利。
+第三方字体保留原始 GPLv2 与字体嵌入例外，不将其标为 Apache-2.0 代码，也不将包含这些字体的完整固件宣称为纯 Apache-2.0；详见 [THIRD_PARTY_NOTICES.md](../THIRD_PARTY_NOTICES.md)。软件根目录的许可不对微雪硬件设计、商标、新闻文章或用户截图内容授予额外权利。

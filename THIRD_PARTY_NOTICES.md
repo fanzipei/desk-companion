@@ -1,6 +1,6 @@
 # Third-party notices
 
-Copyright (C) 2026 fanzipei. Original Desk Companion code is licensed under GPL-3.0-only; see LICENSE. This does **not** replace the licenses of the components below.
+Copyright (C) 2026 fanzipei. Original Desk Companion code is licensed under Apache-2.0; see LICENSE and NOTICE. This does **not** replace the licenses of the components below.
 
 ## Vendored firmware components
 
@@ -17,7 +17,7 @@ Copyright (C) 2026 fanzipei. Original Desk Companion code is licensed under GPL-
 - `u8g2_font_wqy12_t_gb2312b` and `u8g2_font_wqy16_t_gb2312b`: WenQuanYi Bitmap Song. Copyright (C) 2004–2010, WenQuanYi Project Board of Trustees and Qianqian Fang. GPL v2 with font embedding exception. See `LICENSES/GPL-2.0-only.txt` and `LICENSES/WenQuanYi-font-exception.txt`.
 - Upstream font provenance: https://github.com/olikraus/u8g2/wiki/fntgrpwqy and https://github.com/larryli/u8g2_wqy . The font sources and transformation tools are available there; the original font license takes precedence over licenses of wrapper/conversion code.
 - `u8g2_font_5x7_tf`: Misc Fixed 5×7, identified by its upstream header as a public domain font. The original notice remains beside its initializer.
-- Font embedding exceptions have their own scope. A top-level GPLv3 notice does not relicense these GPLv2 fonts. Review the retained font terms for any distribution of modified fonts or combined firmware.
+- Font embedding exceptions have their own scope. A top-level Apache-2.0 notice does not relicense these GPLv2 fonts or make all combined firmware permissively licensed. Review the retained font terms for any distribution of modified fonts or combined firmware.
 
 ### Waveshare ST7305 driver
 

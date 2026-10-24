@@ -63,8 +63,8 @@ $env:DESK_COMPANION_ADDRESS = 'AA:BB:CC:DD:EE:FF'
 
 部分重启测试使用 COM6，请先核对脚本与串口。测试生成的帧缓冲图片、结果及本机验收记录仅保存在忽略的 `logs/` 中，不构成仓库自带测试报告。硬件脚本会保留用户数据，并在没有空位或存在用户提醒时拒绝覆盖测试。
 
-## 本地 Git 与将来发布
+## Git 与发布
 
-当前只建立本地仓库，不创建 GitHub 远程、不上传。将来创建空的 GitHub 仓库后，可设置 `origin` 并推送 `main`；推送前先检查 `git status`、暂存内容与忽略规则。
+GitHub 源码仓库为 https://github.com/fanzipei/desk-companion ，默认分支为 `main`。提交与推送前先检查 `git status`、暂存内容与忽略规则，确保未包含本机数据或凭证。
 
-发布固件二进制时应同时提供对应源码、构建脚本和第三方声明。GPLv3 消费类硬件的安装信息要求见 [许可说明](licensing.md)。
+发布固件二进制时应保留 LICENSE、NOTICE 和适用第三方声明，并依据所包含组件的条款提供对应源码、构建脚本等材料。根目录 Apache-2.0 不替换第三方字体或依赖的授权，见 [许可说明](licensing.md)。

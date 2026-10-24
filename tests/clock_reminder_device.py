@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Safe real-device clock / autonomous reminder acceptance with owned fixtures."""
 import asyncio
 from contextlib import asynccontextmanager

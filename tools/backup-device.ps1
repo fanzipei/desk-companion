@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 param([string]$Port = 'COM6', [string]$Python, [string]$EspRoot = (Join-Path $env:USERPROFILE 'esp'))
 $ErrorActionPreference = 'Stop'
 . (Join-Path $PSScriptRoot 'esp-python.ps1')

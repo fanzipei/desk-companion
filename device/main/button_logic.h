@@ -1,3 +1,6 @@
+/* Copyright 2026 fanzipei
+ * SPDX-License-Identifier: Apache-2.0
+ */
 #ifndef COMPANION_BUTTON_LOGIC_H
 #define COMPANION_BUTTON_LOGIC_H
 #include <stdbool.h>

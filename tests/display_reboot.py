@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Verify screen preferences persist across a hardware reset; restore originals."""
 import asyncio
 import json

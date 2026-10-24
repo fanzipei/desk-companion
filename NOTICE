@@ -1,0 +1,11 @@
+Desk Companion / 桌面小伴侣
+Copyright 2026 fanzipei
+
+Original project code is licensed under the Apache License, Version 2.0.
+Third-party components retain their own copyright and license terms.
+See THIRD_PARTY_NOTICES.md and the license files in LICENSES/ and
+device/components/ for attribution and full terms.
+
+This project uses Waveshare's Apache-2.0 ST7305 driver, the BSD-2-Clause
+U8g2 rendering library, and separately licensed font data. It is not
+affiliated with or endorsed by the Apache Software Foundation or Waveshare.

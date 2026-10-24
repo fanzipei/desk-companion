@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """A disposable editor containing only owned text for real global-hotkey tests."""
 from pathlib import Path
 import time

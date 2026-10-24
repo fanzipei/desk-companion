@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """BLE acceptance using owned fixtures, restoring all user notes/news afterwards."""
 import asyncio
 import json

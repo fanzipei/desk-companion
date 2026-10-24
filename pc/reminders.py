@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Local reminders: AI proposes a time; only a human-confirmed time is persisted."""
 from datetime import datetime, timedelta, timezone
 import json

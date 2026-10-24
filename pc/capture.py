@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """User-dragged screen region capture; the full desktop stays in memory only."""
 import ctypes
 import tkinter as tk

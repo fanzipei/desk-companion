@@ -1,3 +1,6 @@
+/* Copyright 2026 fanzipei
+ * SPDX-License-Identifier: Apache-2.0
+ */
 #include <stdlib.h>
 #include "battery.h"
 #include "battery_logic.h"

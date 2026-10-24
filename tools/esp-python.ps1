@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 function Get-EspPython {
     param([string]$Python, [string]$EspRoot = (Join-Path $env:USERPROFILE 'esp'))
     if ($Python) { return $Python }

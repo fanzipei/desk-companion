@@ -1,3 +1,6 @@
+/* Copyright 2026 fanzipei
+ * SPDX-License-Identifier: Apache-2.0
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

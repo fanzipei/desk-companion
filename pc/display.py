@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Shared validation for persisted screen preferences and BLE settings."""
 FONT_SIZES = (12, 16, 24, 32)
 

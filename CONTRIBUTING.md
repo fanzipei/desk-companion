@@ -12,4 +12,4 @@ PC 端需要 Windows 和 Python 3.12–3.14，设备端使用 ESP-IDF 5.3.2。�
 
 PR 描述应说明解决的问题、最终行为和验证结果。界面保持托盘优先，普通划选发送不得弹出主窗口或通知。新闻和 API 请求失败时应保留已有内容。
 
-请勿提交 data、logs、backups、API 密钥、个人设备地址、截图或完整 Flash 镜像。引入或修改第三方代码时保留原版权和许可，更新 THIRD_PARTY_NOTICES.md。对原创代码的贡献按本项目 GPL-3.0-only 提交。
+请勿提交 data、logs、backups、API 密钥、个人设备地址、截图或完整 Flash 镜像。引入或修改第三方代码时保留原版权和许可，更新 THIRD_PARTY_NOTICES.md。对原创代码的贡献按本项目 Apache-2.0 提交。

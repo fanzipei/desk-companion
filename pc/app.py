@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """A tray icon, one small input flyout, and an explicitly opened settings dialog."""
 import argparse
 import ctypes

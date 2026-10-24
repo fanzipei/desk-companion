@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 """Monotonic refresh phases: HN at 0/600/1200, GDELT at 300/900/1500."""
 import math
 

@@ -1,3 +1,5 @@
+# Copyright 2026 fanzipei
+# SPDX-License-Identifier: Apache-2.0
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 import copy
