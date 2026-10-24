@@ -1,0 +1,43 @@
+# User content, credentials, device identifiers, diagnostics and flash images.
+/data/
+/backups/
+/logs/
+/firmware/
+/.cache/
+/.venv/
+/测试报告-*.md
+
+# Local bring-up scripts depend on private backups / old test firmware.
+/tools/bledeps/
+/tools/venv/
+/tools/flash-test.ps1
+/tools/hardware_test.py
+/tools/reboot-device.py
+/tools/verify_restore.py
+
+# Generated build products and editor state.
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.bin
+*.elf
+*.map
+*.exe
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+/device/build/
+/device/dist/
+/device/sdkconfig.old
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Never commit local credentials or certificate private keys.
+.env
+.env.*
+*.dpapi
+*.pem
+*.key
